@@ -1,2 +1,3 @@
-text from new_file.txt
+text from new_file.md
+
 

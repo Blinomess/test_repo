@@ -1,2 +1,2 @@
-Text from readme.txt
+Text from readme.md
 
